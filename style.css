@@ -16,3 +16,11 @@ h1{
 img{
     width: 100%;
 }
+.link-button{
+    text-decoration: none;
+    color: skyblue;
+    background-image: linear-gradient(tomato, salmon);
+    font-weight: 750;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
