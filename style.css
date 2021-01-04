@@ -1,6 +1,13 @@
 body{
     font-family: 'PT Sans Caption', sans-serif;
 }
+section{
+    height: 500px;
+}
+.banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
 h1{
     font-size: 50px;
 }
