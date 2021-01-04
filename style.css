@@ -24,7 +24,7 @@ h2{
 p{
     color: cadetblue;
 }
-#name{
+.brown-highlight{
     color: brown;
 }
 .half-width{
